@@ -8,3 +8,6 @@ installation de cors => permet les requetes qui viennent d'un autre domaine
 config mangadb
 install de mmongoose
 install de graphQL
+
+coté front
+
